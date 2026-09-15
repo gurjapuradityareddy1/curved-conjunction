@@ -1,15 +1,12 @@
 ---
 title: Installation
-description: Install and configure Curved Conjunction
+description: Install Curved Conjunction
+slug: installation
 ---
 
 # Installation
 
 Welcome to the installation guide.
-
-## Requirements
-
-Before getting started, make sure you have Node.js installed.
 
 ## Install
 
